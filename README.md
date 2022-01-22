@@ -12,6 +12,7 @@ The app is deployed on Heroku and showcases a number of familiar JavaScript tech
 
 ## Deployed App:
 
+<<<<<<< HEAD
 You can find the deployed app on the following heroku link: [https://thawing-sea-63259.herokuapp.com/]
 
 ## Installation
@@ -26,3 +27,10 @@ If you just wish to look at/modify the code, use a text-editor like VS Code to d
 
 Trilogy Education Services & the Coding Bootcamp at UCSD
 
+=======
+[https://pure-everglades-70969.herokuapp.com/]
+
+## Installation
+
+To access the code for the app and use it for your own purposes, navigate 
+>>>>>>> f5f94d08a2a274f8349ad06b0d59994d39bcd0cc
