@@ -12,6 +12,8 @@ The app is deployed on Heroku and showcases a number of familiar JavaScript tech
 
 ## Deployed App:
 
+[https://pure-everglades-70969.herokuapp.com/]
+
 ## Installation
 
 To access the code for the app and use it for your own purposes, navigate 
