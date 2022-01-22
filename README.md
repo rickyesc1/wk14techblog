@@ -12,6 +12,17 @@ The app is deployed on Heroku and showcases a number of familiar JavaScript tech
 
 ## Deployed App:
 
+You can find the deployed app on the following heroku link: [https://thawing-sea-63259.herokuapp.com/]
+
 ## Installation
 
-To access the code for the app and use it for your own purposes, navigate 
+To access the code for the app and use it for your own purposes, navigate to the github repository for the code [https://github.com/rickyesc1/wk14techblog] and clone it to your local machine.
+
+Make sure you have heroku installed in your CLI and follow the commands to deploy your own app.
+
+If you just wish to look at/modify the code, use a text-editor like VS Code to do so. 
+
+### Credits
+
+Trilogy Education Services & the Coding Bootcamp at UCSD
+
